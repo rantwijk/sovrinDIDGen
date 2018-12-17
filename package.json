@@ -1,0 +1,14 @@
+{
+  "name": "sovrindidgen",
+  "version": "1.0.0",
+  "description": "Generates Sovrin DIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie van Rantwijk",
+  "license": "ISC",
+  "dependencies": {
+    "sovrin-did": "^1.4.0"
+  }
+}
